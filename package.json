@@ -1,0 +1,19 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "expense-tracker.js",
+  "type": "module",
+  "scripts": {
+    "start": "node expense-tracker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
